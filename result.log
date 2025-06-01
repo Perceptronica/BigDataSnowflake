@@ -1,9 +1,4 @@
-# BigDataSnowflake
-
-Result:
-```
-LOG:  database system is ready to accept connections
-done
+LOG:  database system is ready to accept connections done
 server started
 CREATE DATABASE
 
@@ -38,4 +33,3 @@ INSERT 0 10000
 INSERT 0 3
 INSERT 0 9
 INSERT 0 0
-```
